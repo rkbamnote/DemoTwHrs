@@ -1,0 +1,6 @@
+framework module Pods_TwoHrs {
+  umbrella header "Pods-TwoHrs-umbrella.h"
+
+  export *
+  module * { export * }
+}
